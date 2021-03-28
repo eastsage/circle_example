@@ -1,6 +1,7 @@
 {
     "cmake.debugConfig": {
-        "cwd": "${workspaceFolder}"
+        "cwd": "${workspaceFolder}",
+        "args": ["1.0", "0.9", "24", "0", "360", "1.0", "1.0", "1.0"]
     },
     "files.associations": {
         "__cxx_version": "cpp",
